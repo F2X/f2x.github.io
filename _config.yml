@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://f2x.github.io/
+title: François-Xavier Gentilhomme
+email: gentilhomme.fx@outlook.fr
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/gentilh_fx
+  - title: github
+    url: https://github.com/F2X
+  - title: linkedin
+    url: https://fr.linkedin.com/in/francoisxaviergentilhomme
