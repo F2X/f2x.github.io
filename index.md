@@ -1,5 +1,5 @@
 ---
 layout: default
 title: François-Xavier GENTILHOMME
-subTitle: Pages
+subTitle: Web Developer
 ---
