@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://f2x.github.io/
+url: //f2x.github.io/
 title: François-Xavier Gentilhomme
 subTitle: Web Developer
 email: gentilhomme.fx@outlook.fr
@@ -25,8 +25,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/gentilh_fx
+    url: //twitter.com/gentilh_fx
   - title: github
-    url: https://github.com/F2X
+    url: //github.com/F2X
   - title: linkedin
-    url: https://fr.linkedin.com/in/francoisxaviergentilhomme
+    url: //fr.linkedin.com/in/francoisxaviergentilhomme
