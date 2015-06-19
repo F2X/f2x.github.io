@@ -24,9 +24,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: //twitter.com/gentilh_fx
   - title: github
     url: //github.com/F2X
+  - title: stack-overflow
+    url: //stackoverflow.com/users/1518046/fxg?tab=profile
   - title: linkedin
     url: //fr.linkedin.com/in/francoisxaviergentilhomme
